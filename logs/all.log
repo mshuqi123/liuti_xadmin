@@ -1,0 +1,12 @@
+INFO 2019-11-25 21:56:37,432 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-11-25 21:56:45,826 basehttp 154 "GET /box_request/response HTTP/1.1" 200 199
+INFO 2019-11-25 21:57:18,373 autoreload 217 C:\liuti\liuti_box\apps\box_request\views.py changed, reloading.
+INFO 2019-11-25 21:57:20,194 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-11-25 21:57:23,506 views 30 [{'id': 1, 'fname': '修改包名', 'state': 'Q', 'old': 'com.taobao.taobao', 'new': 'c.l.a', 'create_time': datetime.datetime(2019, 11, 25, 14, 55, 25, 475262), 'update_time': datetime.datetime(2019, 11, 25, 14, 55, 25, 475293)}]
+INFO 2019-11-25 21:57:23,510 basehttp 154 "GET /box_request/response HTTP/1.1" 200 199
+INFO 2019-11-25 21:58:53,543 autoreload 217 C:\liuti\liuti_box\liuti_box\settings.py changed, reloading.
+INFO 2019-11-25 21:58:55,362 autoreload 597 Watching for file changes with StatReloader
+INFO 2019-11-25 21:58:56,709 views 30 [{'id': 1, 'fname': '修改包名', 'state': 'Q', 'old': 'com.taobao.taobao', 'new': 'c.l.a', 'create_time': datetime.datetime(2019, 11, 25, 14, 55, 25, 475262), 'update_time': datetime.datetime(2019, 11, 25, 14, 55, 25, 475293)}]
+INFO 2019-11-25 21:58:56,710 basehttp 154 "GET /box_request/response HTTP/1.1" 200 199
+INFO 2019-11-25 22:00:04,653 autoreload 217 C:\liuti\liuti_box\liuti_box\settings.py changed, reloading.
+INFO 2019-11-25 22:00:06,358 autoreload 597 Watching for file changes with StatReloader
